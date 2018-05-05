@@ -1,6 +1,6 @@
 cluster:
   name: gcpk8s
-  version: v1.9.6
+  version: v1.10.2
   disable_package_installation: false
   disconnected_installation: false
 
